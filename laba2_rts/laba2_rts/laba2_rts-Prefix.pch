@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'laba2_rts' target in the 'laba2_rts' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
